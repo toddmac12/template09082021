@@ -9,7 +9,7 @@
 
 ## Preview
 
-  * Follow this [path](https://github.com/) to view the project on GitHub Pages
+  * 
 
 ## Technologies Used
 
