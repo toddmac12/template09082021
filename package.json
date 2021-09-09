@@ -5,7 +5,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "build": "webpack --mode=development",
+=======
+    "build": "webpack --mode development",
+>>>>>>> 91ce7f98e4547c4db1f5ff1aa95112de7732fa7a
     "start": "npm run build & webpack-dev-server --open --mode development",
     "lint": "eslint src/*.js",
     "test": "jest --coverage"
